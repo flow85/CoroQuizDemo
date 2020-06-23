@@ -2,7 +2,7 @@
   "name": "coroquiz",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://flow85.github.io/CoroQuizDemo",
+  "homepage": "https://flow85.github.io/CoroQuizDemo/",
   "dependencies": {
     "@material-ui/core": "^4.10.2",
     "@testing-library/jest-dom": "^4.2.4",
